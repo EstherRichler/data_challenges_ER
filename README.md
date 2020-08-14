@@ -1,4 +1,4 @@
-# data_challenges_ER
+# practice_data_challenges
 
 This repository cotains practice data challenges that I've worked on. They are a work in progress as I improve them whenever I find a nice bit of code. I generally spend more than the alloted time on these because I use them as an opportunity to learn about and apply methods that are new to me.
 
